@@ -1,5 +1,5 @@
 <header id="header">
-    <a href="/" class="logo"><img src="<?php echo get_site_url(); ?>/wp-content/themes/nt-editorial/assets/dist/images/placeholder-logo.png" /></a>
+    <a href="/" class="logo"><img src="<?php echo get_site_url(); ?>/wp-content/themes/wordpress-editorial/assets/dist/images/placeholder-logo.png" /></a>
     <?php if(have_rows('social_links', 'option')): ?>
         <ul class="icons">
             <div>
